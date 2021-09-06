@@ -1,0 +1,105 @@
+ void main() {
+   var a = "shaheer";
+   var b = "adnan";
+   String c = "abc@xyz.com";
+   String d = "main rashid minhas road block 10-A,c-1/86";
+   
+   print ("My name is ${a} \nMy friend name is ${b} \nMy gamil id is ${c} \nMy address is ${d}");
+   
+   var aa = 5;
+   var bb= 10;
+   var cc = aa+bb;
+   print (cc);
+   
+   
+   var aaa = 5;
+   var bbb = 10;
+   var ccc = aaa-bbb;
+   print (ccc);
+   
+   var e = 5;
+   var f = 10;
+   var g = e*f;
+   print (g);
+   
+   var h = 5;
+   var i = 10;
+   var j = h/i;
+   print (j);
+   
+    var k = 5;
+    var l = 10;
+    var o = k>l;
+    print (o);
+  
+   
+    var kk = 5;
+    var ll = 10;
+    var oo = kk<ll;
+    print (oo);
+     
+    var kkk = 5;
+    var lll = 10;
+    var ooo = kkk<=lll;
+    print (ooo);
+   
+    var kkkk = 5;
+    var llll = 10;
+    var oooo= kkkk>=llll;
+    print (oooo);
+   
+   var p = 5;
+   var pp = 10;
+   var ppp = p!=pp;
+   print (ppp);
+   
+   var z = 5;
+   var zz = 5;
+   var zzz = l==ll;
+   print (zzz);
+   
+   int r = 89;
+   print (r);
+   
+   double rr = 45.8;
+   print (rr);
+   
+   num rrr = 44.2 + 65;
+   print (rrr);
+   
+   num yyy = 44.2 - 65;
+   print (yyy);
+   
+    num gg = 44.2 / 65;
+   print (gg);
+   
+   int q = 10+2;
+   int qq = 10;
+   bool qqq = qq>q;
+   print (qqq);
+   
+   
+   int w = 10+2;
+   int ww = 10;
+   bool www = ww<w;
+   print (www);
+   
+  int firstnumber = 5;
+  int secondnumber = 10;
+   
+   if(secondnumber>firstnumber){
+     print ("secondnumber is greater");
+   }else{
+     print("firstnumber is greater");
+   }
+   
+  int ffirstnumber = 5;
+  int ssecondnumber = 10;
+   
+   if(ssecondnumber<ffirstnumber){
+     print ("ssecondnumber is greater");
+   }else{
+     print("ffirstnumber is greater");
+   }
+   
+ }
